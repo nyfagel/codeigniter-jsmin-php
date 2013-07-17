@@ -1,5 +1,5 @@
 <?php
 
-$autoload['libraries'] = array('jsmin');
+$autoload['helpers'] = array('jsmin');
 
 ?>
