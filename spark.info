@@ -1,4 +1,4 @@
 name: jsmin
-version: 1.0.0
+version: 1.0.2
 compatibility: 2.1.0
 tags: ["js", "javascript", "minify"]

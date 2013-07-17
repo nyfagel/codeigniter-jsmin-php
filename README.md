@@ -1,4 +1,4 @@
-# CodeIgniter JSMin Spark 1.0.0
+# CodeIgniter JSMin Spark
 
 This is a CodeIgniter Spark that provides jsmin.php, a PHP implementation of Douglas Crockford's JSMin by Ryan Grove, inspired by the ``minify`` spark by Jens Segers.
 
