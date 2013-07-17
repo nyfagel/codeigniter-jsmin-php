@@ -12,8 +12,8 @@ First, install the spark by running
 
 Then, in your code:
 
-```php
-$this->load->spark('jsmin/1.0.0');
+```
+$this->load->spark('jsmin/1.0.3');
 
 $minified = JSMin::minify($source);
 ```
@@ -21,7 +21,7 @@ $minified = JSMin::minify($source);
 ### Directly into your project
 First, install it by copying ``libraries/jsmin.php`` into ``application/libraries``.
 
-```php
+```
 $this->load->library('jsmin');
 
 $minified = JSMin::minify($source);
