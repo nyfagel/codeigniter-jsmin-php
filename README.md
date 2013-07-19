@@ -13,7 +13,7 @@ First, install the spark by running
 Then, in your code:
 
 ```
-$this->load->spark('jsmin/1.0.6');
+$this->load->spark('jsmin/1.0.7');
 
 $minified = minifyjs($source);
 ```
