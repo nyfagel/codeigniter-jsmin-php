@@ -2,7 +2,7 @@
 
 if ( ! function_exists('minifyjs')) {
 	function minifyjs($js) {
-		require_once dirname(__FILE__).'/../libraries/JSMin.php';
+		require_once dirname(__FILE__).'/../libraries/jsmin.php';
 		return JSMin::minify($js);
 	}
 }
